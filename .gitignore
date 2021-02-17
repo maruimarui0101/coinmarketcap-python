@@ -1,0 +1,7 @@
+*.pyc
+.env
+.vscode
+.idea
+__pycache__
+.pynb_checkpoints
+config.py
