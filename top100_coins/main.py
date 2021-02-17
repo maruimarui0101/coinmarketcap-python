@@ -27,7 +27,6 @@ request = requests.get(listings_url, headers=headers, params=params)
 results = request.json()
 data = results['data']
 
-print(data)
 
 table = PrettyTable(['Rank', 'Asset', 'Price', 'Market Cap', 'Volume', '1h', '24h', '7d'])
 

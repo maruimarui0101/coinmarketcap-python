@@ -9,6 +9,13 @@ Have already included some small scripts as part of a "play-around" to see the c
 - coinmarketcap API key: https://coinmarketcap.com/api/ 
 - Python 3.7+ (f-strings being used in scripts)
 
+## Projects 
+
+1. Coin portfolio
+2. Top 100 coins
+
+Projects will be listed as they are completed 
+
 ### Configuration file
 
 Once an API key has been obtained, a `config.py` file will need to be created in order to be able to run all scripts within this repo as they will pull the api key from this file.
